@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\apjoh\Desktop\5408\5408-group-20\ddbms\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+db-1/gdd/
+db-1/logs/
+db-1/testDatabase/
+db.properties
+target/.
